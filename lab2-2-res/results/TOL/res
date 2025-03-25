@@ -1,0 +1,24 @@
+========== incorrect:
+[[ 0  0]
+ [ 4 26]]
+Precision: 1.000
+Recall: 0.867
+F1: 0.929
+Accuracy: 0.867
+
+========== incomplete:
+[[ 1  0]
+ [15 14]]
+Precision: 1.000
+Recall: 0.483
+F1: 0.651
+Accuracy: 0.500
+
+========== inconsistent:
+[[ 7  3]
+ [ 7 13]]
+Precision: 0.812
+Recall: 0.650
+F1: 0.722
+Accuracy: 0.667
+

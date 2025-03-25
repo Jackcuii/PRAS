@@ -1,0 +1,23 @@
+[[ 0  0]
+ [ 3 27]]
+Precision: 1.000
+Recall: 0.900
+F1: 0.947
+Accuracy: 0.900
+
+========== incomplete:
+[[ 0  1]
+ [12 17]]
+Precision: 0.944
+Recall: 0.586
+F1: 0.723
+Accuracy: 0.567
+
+========== inconsistent:
+[[ 6  4]
+ [ 9 11]]
+Precision: 0.733
+Recall: 0.550
+F1: 0.629
+Accuracy: 0.567
+

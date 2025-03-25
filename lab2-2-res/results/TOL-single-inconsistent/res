@@ -1,0 +1,8 @@
+========== inconsistent:
+[[ 2  8]
+ [ 2 18]]
+Precision: 0.692
+Recall: 0.900
+F1: 0.783
+Accuracy: 0.667
+
