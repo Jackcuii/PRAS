@@ -1,0 +1,262 @@
+We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly
+com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services")
+By using Amazon Services, you are consenting to the practices described in this Privacy Notice
+What Personal Information About Customers Does Amazon Collect?
+For What Purposes Does Amazon Use Your Personal Information?
+Are Children Allowed to Use Amazon Services?
+What Personal Information About Customers Does Amazon Collect?
+We collect your personal information in order to provide and continually improve our products and services
+Here are the types of personal information we collect information You Give Us: We receive and store any information you provide in relation to Amazon Services
+Click here to see examples of what we collect
+You can choose not to provide certain information, but then you might not be able to take advantage of many of our Amazon Services
+Here are the types of personal information we collect automatic Information: We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services
+Like many websites, we use "cookies" and other unique identifiers, and we obtain certain types of information when your web browser or device accesses Amazon Services and other content served by or on behalf of Amazon on other websites
+Our physical stores may use cameras, computer vision, sensors, and other technology to gather information about your activity in the store, such as the products and services you interact with
+Click here to see examples of what we collect
+Here are the types of personal information we collect information from Other Sources: We might receive information about you from other sources, such as updated delivery and address information from our carriers, which we use to correct our records and deliver your next purchase more easily
+Click here to see additional examples of the information we receive
+For What Purposes Does Amazon Use Your Personal Information?
+We use your personal information to operate, provide, develop, and improve the products and services that we offer our customers
+These purposes include purchase and delivery of products and services
+We use your personal information to take and handle orders, deliver products and services, process payments, and communicate with you about orders, products and services, and promotional offers
+We use your personal information to operate, provide, develop, and improve the products and services that we offer our customers
+These purposes include provide, troubleshoot, and improve Amazon Services
+We use your personal information to provide functionality, analyze performance, fix errors, and improve the usability and effectiveness of the Amazon Services
+We use your personal information to operate, provide, develop, and improve the products and services that we offer our customers
+We use your personal information to recommend features, products, and services that might be of interest to you, identify your preferences, and personalize your experience with Amazon Services
+We use your personal information to operate, provide, develop, and improve the products and services that we offer our customers
+These purposes include provide voice, image and camera services
+When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services
+For more information about Alexa voice services , click here
+We use your personal information to operate, provide, develop, and improve the products and services that we offer our customers
+These purposes include comply with legal obligations
+In certain cases, we collect and use your personal information to comply with laws
+For instance, we collect from sellers information regarding place of establishment and bank account information for identity verification and other purposes
+We use your personal information to operate, provide, develop, and improve the products and services that we offer our customers
+We use your personal information to communicate with you in relation to Amazon Services via different channels (Inc., by phone, email, chat)
+We use your personal information to operate, provide, develop, and improve the products and services that we offer our customers
+We use your personal information to display interest-based ads for features, products, and services that might be of interest to you
+We do not use information that personally identifies you to display interest-based ads
+To learn more, please read our Interest-Based Ads notice
+We use your personal information to operate, provide, develop, and improve the products and services that we offer our customers
+These purposes include fraud Prevention and Credit Risks
+We use personal information to prevent and detect fraud and abuse in order to protect the security of our customers, Amazon, and others
+We may also use scoring methods to assess and manage credit risks
+To enable our systems to recognize your browser or device and to provide and improve Amazon Services, we use cookies and other identifiers
+For more information about cookies and how we use them, please read our Cookies Notice
+Information about our customers is an important part of our business, and we are not in the business of selling our customers' personal information to others
+We share customers' personal information only as described below and with subsidiaries Amazon
+com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice
+Transactions involving Third Parties: We make available to you services, products, applications, or skills provided by third parties for use on or through Amazon Services
+For example, you can order products from third parties through our stores, download applications from third-party application providers from our App Store, and enable third-party skills through our Alexa services
+We also offer services or sell product lines jointly with third-party businesses, such as co-branded credit cards
+You can tell when a third party is involved in your transactions, and we share customers' personal information related to those transactions with that third party
+Third-Party Service Providers: We employ other companies and individuals to perform functions on our behalf
+Examples include fulfilling orders for products or services, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing payments, transmitting content, scoring, assessing and managing credit risk, and providing customer service
+These third-party service providers have access to personal information needed to perform their functions, but may not use it for other purposes
+Business Transfers: As we continue to develop our business, we might sell or buy other businesses or services
+In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise)
+Also, in the unlikely event that Amazon
+com, Inc. or substantially all of its assets are acquired, customer information will of course be one of the transferred assets
+Protection of Amazon and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Amazon, our users, or others
+This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction
+Other than as set out above, you will receive notice when personal information about you might be shared with third parties, and you will have an opportunity to choose not to share the information
+We design our systems with your security and privacy in mind
+We work to protect the security of your personal information during transmission by using encryption protocols and software
+We follow the Payment Card Industry Data Security Standard (PCI DSS) when handling credit card data
+We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of customer personal information
+Our security procedures mean that we may ask to verify your identity before we disclose personal information to you
+Our devices offer security features to protect them against unauthorized access and loss of data
+You can control these features and configure them based on your needs
+Click here for more information on how to manage the security settings of your device
+It is important for you to protect against unauthorized access to your password and to your computers, devices, and applications
+We recommend using a unique password for your Amazon account that is not used for other online accounts
+Be sure to sign off when finished using a shared computer
+Click here for more information on how to sign off
+Third-Party Advertisers and Links to Other Websites: Amazon Services may include third-party advertising and links to other websites and apps
+Third-party advertising partners may collect information about you when you interact with their content, advertising, and services
+For more information about third-party advertising at Amazon, including interest-based ads, please read our Interest-Based Ads notice
+To adjust your advertising preferences, please go to the Your Ads Privacy Choices page
+Use of Third-Party Advertising Services: We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness
+We never share your name or other information that directly identifies you when we do this
+Instead, we use an advertising identifier like a cookie, a device identifier, or a code derived from applying irreversible cryptography to other information like an email address
+For example, if you have already downloaded one of our apps, we will share your advertising identifier and data about that event so that you will not be served an ad to download the app again
+While we do not share your specific shopping actions like purchases, product views, or searches with ad companies, we may share an advertising identifier and an estimate of the value of the ads they show you on our behalf so they can serve you with more effective Amazon ads
+Some ad companies also use this information to serve you relevant ads from other advertisers
+You can learn more about how to opt-out of personalized advertising (such as cross-context behavioral advertising) by going to the Your Ads Privacy Choices page
+You can access your information, including your name, address, payment options, profile information, Prime membership, household settings, and purchase history in the "Your Account" section of the website
+Click here for a list of examples that you can access
+If you have any questions as to how we collect and use your personal information, please contact our Customer Service
+Many of our Amazon Services also include settings that provide you with options as to how your information is being used
+As described above, you can choose not to provide certain information, but then you might not be able to take advantage of many of the Amazon Services
+You can add or update certain information on pages such as those referenced in What Information Can I Access?
+When you update information, we usually keep a copy of the prior version for our records
+If you do not want to receive email or other communications from us, please adjust your Customer Communication Preferences
+If you don't want to receive in-app notifications from us, please adjust your notification settings in the app or device
+You may adjust your personalized advertising preferences by visiting Your Ads Privacy Choices
+The Help feature on most browsers and devices will tell you how to prevent your browser or device from accepting new cookies or other identifiers, how to have the browser notify you when you receive a new cookie, or how to block cookies altogether
+Because cookies and identifiers allow you to take advantage of some essential features of Amazon Services, we recommend that you leave them turned on
+For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Services that require you to Sign in
+For more information about cookies and other identifiers, see our Cookies Notice
+If you want to browse our websites without linking the browsing history to your account, you may do so by logging out of your account here and blocking cookies on your browser
+You can manage the recommendations you receive in our store here, remove recommendations you don't want to see here by selecting View All and Manage then selecting the Remove Items toggle that appears at the top of the page, and edit your browsing history here
+You will also be able to opt out of certain other types of data usage by updating your settings on the applicable Amazon website (Inc., in "Manage Your Content and Devices"), device, or application
+Most non-Amazon devices also provide users with the ability to change device permissions (Inc., disable/access location services, contacts)
+For most devices, these controls are located in the device's settings menu
+If you have questions about how to change your device permissions on devices manufactured by third parties, we recommend you contact your mobile service carrier or your device manufacturer
+If you are a seller, you can add or update certain information in Seller Central, update your account information by accessing your Seller Account Information, and adjust your email or other communications you receive from us by updating your Notification Preferences
+If you are an author, you can add or update the information you have provided in the Author Portal and Author Central by accessing your accounts in the Author Portal and Author Central, respectively
+If you shop in our physical stores, you can manage how certain data is used to analyze the performance of our products and services, as well as learn more here
+In addition, to the extent required by applicable law, you may have the right to request access to or delete your personal information
+If you wish to do any of these things, you may go to Data Privacy Queries
+Depending on your data choices, certain services may be limited or unavailable
+Are Children Allowed to Use Amazon Services?
+Amazon does not sell products for purchase by children
+We sell children's products for purchase by adults
+If you are under 18, you may use Amazon Services only with the involvement of a parent or guardian
+We do not knowingly collect personal information from children under the age of 13 without the consent of the child's parent or guardian
+For more information, please see our Children's Privacy Disclosure
+com, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework*
+We will not rely on the Swiss-US Data Privacy Framework or the UK Extension to the EU-US Data Privacy Framework until they enter into force, but we adhere to their required commitments in anticipation of their doing so
+Click here to read additional state-specific privacy disclosures as required under applicable laws
+If you choose to use Amazon Services, your use and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington
+If you have any concern about privacy at Amazon, please contact us with a thorough description, and we will try to resolve it
+Our business changes constantly, and our Privacy Notice will change also
+You should check our websites frequently to see recent changes
+Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account
+We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers
+Information You Give Us When You Use Amazon Services
+You provide information to us when you search or shop for products or services in our stores
+You provide information to us when you add or remove an item from your cart, or place an order through or use Amazon Services
+You provide information to us when you download, stream, view, or use content on a device or through a service or application on a device
+You provide information to us when you provide information in Your Account (and you might have more than one if you have used more than one email address or mobile number when shopping with us) or Your Profile
+You provide information to us when you talk to or otherwise interact with our Alexa Voice service
+You provide information to us when you upload your contacts
+You provide information to us when you configure your settings on, provide data access permissions for, or interact with an Amazon device or service
+You provide information to us when you provide information in your Seller Account , Kindle Direct Publishing account , Developer account , or any other account we make available that allows you to develop or offer software, goods, or services to Amazon customers
+You provide information to us when you offer your products or services on or through Amazon Services
+You provide information to us when you communicate with us by phone, email, or otherwise
+You provide information to us when you complete a questionnaire, a support ticket, or a contest entry form
+You provide information to us when you upload or stream images, videos or other files to Prime Photos, Amazon Drive, or other Amazon Services
+You provide information to us when you use our services such as Prime Video
+You provide information to us when you compile Playlists, Watchlists, Wish Lists, or other gift registries
+You provide information to us when you participate in Discussion Boards or other community features
+You provide information to us when you provide and rate Reviews
+You provide information to us when you specify a Special Occasion Reminder; or
+You provide information to us when you employ Product Availability Alerts, such as Available to Order Notifications
+As a result of those actions, you might supply us with such information as identifying information such as your name, address, and phone numbers
+As a result of those actions, you might supply us with such information as payment information
+As a result of those actions, you might supply us with such information as your age
+As a result of those actions, you might supply us with such information as your location information
+As a result of those actions, you might supply us with such information as your IP address
+As a result of those actions, you might supply us with such information as people, addresses and phone numbers listed in your Addresses
+As a result of those actions, you might supply us with such information as email addresses of your friends and other people
+As a result of those actions, you might supply us with such information as content of reviews and emails to us;
+As a result of those actions, you might supply us with such information as personal description and photograph in Your Profile
+As a result of those actions, you might supply us with such information as voice recordings when you speak to Alexa
+As a result of those actions, you might supply us with such information as images and videos collected or stored in connection with Amazon Services
+As a result of those actions, you might supply us with such information as information and documents regarding identity, including Social Security and driver's license numbers
+As a result of those actions, you might supply us with such information as corporate and financial information
+As a result of those actions, you might supply us with such information as credit history information; and
+As a result of those actions, you might supply us with such information as device log files and configurations, including Wi-Fi credentials, if you choose to automatically synchronize them with your other Amazon devices
+Examples of the information we collect and analyze include the internet protocol address used to connect your computer to the internet
+Examples of the information we collect and analyze include login, email address, and password;
+Examples of the information we collect and analyze include the location of your device or computer
+Examples of the information we collect and analyze include content interaction information, such as content downloads, streams, and playback details, including duration and number of simultaneous streams and downloads, and network details for streaming and download quality, including information about your internet service provider
+Examples of the information we collect and analyze include device metrics such as when a device is in use, application usage, connectivity data, and any errors or event failures
+Examples of the information we collect and analyze include amazon Services metrics (Inc., the occurrences of technical errors, your interactions with service features and content, your settings preferences and backup information, location of your device running an application, information about uploaded images and files such as the file name, dates, times and location of your images)
+Examples of the information we collect and analyze include version and time zone settings
+Examples of the information we collect and analyze include purchase and content use history, which we sometimes aggregate with similar information from other customers to create features like Top Sellers
+Examples of the information we collect and analyze include the full Uniform Resource Locator clickstream to, through, and from our websites, including date and time; products and content you viewed or searched for; page response times, download errors, length of visits to certain pages, and page interaction information (such as scrolling, clicks, and mouse-overs)
+Examples of the information we collect and analyze include phone numbers used to call our customer service number; and
+Examples of the information we collect and analyze include images or videos when you shop in our stores, or stores using Amazon Services
+We may also use device identifiers, cookies, and other technologies on devices, applications, and our web pages to collect browsing, usage, or other technical information
+Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily
+Examples of information we receive from other sources include account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services
+Examples of information we receive from other sources include information about your interactions with products and services offered by our subsidiaries
+Examples of information we receive from other sources include search results and links, including paid listings (such as Sponsored Links)
+Examples of information we receive from other sources include information about internet-connected devices and services linked with Alexa; and
+Examples of information we receive from other sources include credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers
+Examples of information you can access through Amazon Services include status of recent orders (including subscriptions)
+Examples of information you can access through Amazon Services include your complete order history
+Examples of information you can access through Amazon Services include personally identifiable information (including name, email, password, and address book)
+Examples of information you can access through Amazon Services include payment settings (including payment card information, promotional certificate and gift card balances, and 1-Click settings)
+Examples of information you can access through Amazon Services include email notification settings (including Product Availability Alerts, Delivers, Special Occasion Reminders and newsletters)
+Examples of information you can access through Amazon Services include recommendations and the products you recently viewed that are the basis for recommendations (including Recommended for You and Improve Your Recommendations)
+Examples of information you can access through Amazon Services include shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries)
+Examples of information you can access through Amazon Services include your content, devices, services, and related settings, and communications and personalized advertising preferences
+Examples of information you can access through Amazon Services include content that you recently viewed
+Examples of information you can access through Amazon Services include voice recordings associated with your account
+Examples of information you can access through Amazon Services include your Profile (including your product Reviews, Recommendations, Reminders and personal profile)
+Examples of information you can access through Amazon Services include if you are a seller, you can access your account and other information, and adjust your communications preferences, by updating your account in Seller Central
+Examples of information you can access through Amazon Services include if you are an author, you can access your account and other information, and update your accounts, on the Kindle Direct Publishing or Author Central website, as applicable
+Examples of information you can access through Amazon Services include if you are a developer participating in our Developer Services Program, you can access your account and other information, and adjust your communications preferences, by updating your accounts in the Developer Services Portal
+Please select what best describes the information this information is confusing or wrong
+Please select what best describes the information this isn't the information I was looking for
+Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help
+AMAZON INFLUENCER TERMS & CONDITIONS FOR SPONSORED CONTENT
+com Gift Card and Electronic Message Customization Service Terms
+Host your own live radio show with
+Top subscription boxes, right to your door
+Returns & Refunds Exchange or return items
+Payment Settings Add or edit payment methods
+In addition, at the time of a registered User purchasing any product, the User is required to provide certain sensitive personal information which includes its bank account or card details for undertaking transactions on the Platform including without limitation processing of refunds on the Platform
+We may further seek permission to: view User's contacts in the device being used to access the Platform; create new contact in the User's device (including CityMall Support and Whatsapp number) for User's ease of use in future; store items/files in the User's device to enable the User to share the same through Whatsapp
+We may, in future, include other optional requests for information from the User to help Us to customize the Platform to deliver personalized information to the User
+BY MERE USE OF THE ELECTRONIC MEDIA PLATFORM, YOU EXPRESSLY CONSENT TO OUR USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY
+With regard to this Privacy Policy, the terms "using" and "processing" information include, without limitation; the use of cookies; and the collection, storage, transfer, evaluation, deletion, disclosure, management, handling, modifying and use of personal data
+We may collect and process your personal data for, including without limitation, the following purposes: providing Our services: We might process your personal data for the purposes of providing Our services, facilitation, processing and fulfilment of the orders placed by the User for the sale and purchase of the products and provision of the, and for carrying out the transaction of the Users
+For example, personal data is processed in order to set up your Citymall account or for the end retail buyer as the case may be, allow You to place orders for the products, facilitating completion of payment, processing and delivery of order for the sale and purchase of the products through the Platform and submit reviews to the Platform
+Customer service: We need to process personal data for this purpose because it enables Us to adequately respond to Users' questions/ concerns and to verify the correctness of the order for the products placed by User on the Platform and delivery of such orders
+Marketing : We process Users' data for marketing purposes
+This means that We can contact customers to draw attention to Our services
+For this purpose, We process the following personal data: website behaviour; IP address;(iii) email address; postal address; phone number online identifiers; order information; location; and account information
+You understand that We may use certain information provided by You, which may include your personal information or sensitive personal data or information for the purpose of providing the products and services offered through the Platform to You; commercial purposes and in an aggregated and anonymized form for research, statistical analysis and business intelligence purposes; sale or transfer of such research, statistical or intelligence data in an aggregated or non-personally identifiable form to third parties and affiliates; customer support related issues; and enabling You to complete any transaction through the Platform
+In addition to the above, We may also use Your personal data for the following reasons, including but not limited to; keep You informed of the transaction status; send You order confirmations via
+SMS or WhatsApp or any other messaging service; send You any updates or changes to Your orders; allow Our customer service to contact You, if necessary; enable processing and delivery of order for the sale and purchase of the products through the Platform; facilitating completion of payment customize the content of Our website and mobile app; request You for reviews of the products and services offered through the Platform; send You verification messages or emails; validate/authenticate Your account and to prevent any misuse or abuse; contact You on Your birthday and anniversary to inform You of any special offers; send You important notices and communications regarding Our services availed or changes to the terms and conditions and policies; to administer Our business and Platform; to send You marketing related communications; to deal with enquiries and complaints raised by You and to troubleshoot problems; ensure compliance with all applicable laws and to ensure safety of the Platform and all Users; to obtain your Know Your Customer details and credit report; to prevent fraud, errors and any illegal activity on the Platform; to send invoices, statements, agreements and to collect payment from You or make payments to You (as the case may be)
+We automatically receive the URL of the site from which anyone visits
+We also receive the Internet Protocol address of each User's computer (or the proxy server a User used to access the World Wide Web), User's computer operating system and type of web browser the User is using, email patterns, as well as the name of User's ISP
+This information is used to analyze overall trends to help Us improve Our services
+You agree that in addition to as may be provided in this policy, We may also disclose Your personal information under the following circumstances: third party service professionals and providers: We engage, retain or might, as per requirement and business needs of the Company, employ, engage, contract with third party service professionals/providers to work on behalf of or with Us, under agreements containing confidentiality obligations and in accordance with law, in relation to the services provided by Us on the Platform
+These third party service providers may use Your personal information in assisting Us to communicate with You about Our offers, products, delivery of products, placing of orders of products, feedback of services and products, assisting in payment facilities, verification of credit information to process payment, providing customer support, assisting in advertising on the Platform, obtaining your KYC details or credit report, etc. We may employ third party companies and individuals to help improve or facilitate Our service, to provide the service on Our behalf, to perform platform-related services, including but not limited to: payment processing, maintenance services, fraud detection services, database management, web analytics, monitoring, delivery/logistics and evaluation services
+In this event, your information may be shared with such third-party companies and individuals;
+You agree that in addition to as may be provided in this policy, We may also disclose Your personal information under the following circumstances: compliance with laws and protection of Users: We may release your personal information when the same is required in order to comply with the law, in response to court orders, court summons, judgments, decrees, injunctions, arbitral awards, administrative orders, governmental investigation or orders of any government authority or any other legal process, to establish/exercise Our legal rights or defend against legal claims or in the event We reasonably believe that doing so is legally required or is in your interest to protect Your property or other legal rights or property or rights of others
+We may also share your personal information in order to enforce and fully comply with Our terms of service and other Company policies;
+You agree that in addition to as may be provided in this policy, We may also disclose Your personal information under the following circumstances: business transfer and mergers: We may transfer Your personal information if the Company is acquired by or merged with another Company, to the extent permitted by applicable law and required under the scheme/arrangement of merger, etc. In such an event We will notify You before Your personal information is transferred/shared with the other entity and hence becomes subject to a different Privacy Policy;
+Contracting parties: We transfer/share Your information with Our service professionals or third-party contractors to facilitate the services such as delivery of products, payment gateways etc. to You in order to consummate the transaction
+With Your consent: in addition to the aforementioned circumstances, We may share Your personal information with third parties with Your prior consent and at Your request
+We may place text files in the browser files of Your computer system
+Therefore, You are always free to decline Our cookies if Your browser permits, however We use certain cookies to authenticate Users on each page after the User logs on to the Platform
+The data that cookies collect will be used to process and analyse information by third parties to help improve or facilitate Our Platform-related services including but not limited to maintenance services; fraud detection services; database management; web analytics; monitoring; and evaluation services
+We may aggregate and anonymize your personal data (so that it can no longer be associated with you) for research or statistical purposes, in which case We may use this information indefinitely without further notice to you
+Details of Your rights under GDPR are set out below Right to object to processing of personal data in certain circumstances (including where personal data is used for marketing purposes) -You have a right to object to processing being carried out by Us if We are processing personal data based on legitimate interests or for the performance of a task in the public interest (including profiling), if We are using personal data for direct marketing purposes, or if information is being processed for scientific or historical research or statistical purposes
+We will use the information we collect about you in the following ways: Provide location-based services (where those services are available in your jurisdiction);
+We will use the information we collect about you in the following ways: Conduct market survey and trend analysis, and comprehensive statistics, data analysis, processing, and investigation related to the Services
+In general, we'll use the personal information we collect from you only for the purposes described in this Policy or for purposes that we explain as we collect your personal information
+However, we may also use your personal information for other purposes that aren't incompatible with the purposes we have disclosed to you (such as archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes) if and where this is permitted by applicable data protection laws
+You can share your personal information or other information with any third party (Ltd., unspecified objects) based on the Services
+For example, you can choose a social app (such as Facebook) or other applications to share relevant information when you use the sharing function of the Services
+If you choose to register to use the Platform using your social network account details (Ltd., Facebook, Google, Apple, Twitter), you will provide us or allow your social network to provide us with your username and public profile
+Where you opt to share content on social media platforms, the video, username, and accompanying text will be shared on that platform or, in the case of sharing via instant messaging platforms such as WhatsApp, Facebook Messenger, LINE, and Google, a link to the content will be shared
+If you choose to become our Premium and activate the Premium Services, we'll share data with the relevant payment provider to facilitate this transaction
+We share a transaction ID to enable us to identify you once you have made the payment
+We may share your personal information such as your address, and phone number with logistics service providers who provide shipping services such as for deliveries of physical prizes to users
+We may share information with advertisers, third-party advertising platforms, and third-party measurement companies to show how many and which users of the Services have viewed or clicked on an advertisement
+We share your device information (Ltd., your device ID, OS type (Android/iOS), OS version, ATT status of your iPhone, network connection type, area code, device type (phone/pad), device manufacture, device model, MCC mobile signal country code, MNC mobile network number) with third-party advertising platforms so that we can show you various advertisements
+We may share your device ID with measurement companies so that we can link your activity on Bilibili with your activity on other websites; we then use this information to show you advertisements that may be of interest to you
+Advertisers may learn information from your engagement with their ads on Bilibili
+For example, if you click on an external link or ad on the Services, that advertiser might figure out that you came from Bilibili, along with other information associated with the ad you clicked, such as the characteristics of the audience it was intended to reach and other Bilibili-generated identifiers for that ad
+We may also share your information with other members, subsidiaries, or affiliates of our corporate group, to provide the Services including improving and optimizing the Services, preventing illegal use, and supporting users
+; detect, prevent or otherwise address security, fraud or technical issues; protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (Ltd., exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction); enforce our Terms of Service and other agreements, policies, and standards, including investigation of any potential violation thereof
+In such transactions, user information may be among the transferred assets
+In the event of a business transfer, merger, acquisition, or bankruptcy liquidation, which may involve the transfer of personal information, according to the law, the transferee must undertake the same obligations as us and protect and use your personal information in accordance with this Privacy Policy
+We and our vendors and service providers may use cookies and other similar technologies (Ltd., web beacons, flash cookies, Ltd.) (hereinafter "cookies") to automatically collect information, measure and analyze which web pages you click on and how you use the Services, enhance your experience using Bilibili, improve the Services, and provide targeted advertising on Bilibili across your different devices
+Generally, we'll use Cookie to collect your personal information during registration, log-in, and use of the Services, such as your website viewing habits, your browsing history, and log-in information
+For example, we use cookies and other tracking technologies offered by AppsFlyer and Google
+We use Firebase to understand how our users use the Services and measure the effectiveness of our advertising
+For more information on how Google may process and use your information, please visit website_url_lnk You may opt-out of Firebase by visiting website_url_lnk or sending an email to contact@bilibili
+Your personal information will be stored and retained in Singapore and may be transferred to, and processed in, countries other than the country in which you're resident
+For the purpose of security maintenance and business intelligence purpose and other necessary purposes, your personal information in Singapore may be accessed by our affiliates of Bilibili group or partners who act as force operators of Bilibili in other countries (Ltd., China)
+Internally, we also enter into intra-group data transfer agreements with these affiliates of Bilibili group and the Services providers or business partners outside Singapore to require them to protect your personal information when processing your personal information to provide Services to you
+If you want to remove your information about the Services regarding your Facebook account, you can follow our website_url_lnk For some of your personal information, you can also voluntarily delete the information you've provided through the functional pages of related products and services we provide
+For example, you can withdraw the authorization to use the camera by clicking "Me-Setting-Permissions" (iOS)
