@@ -1,0 +1,37 @@
+Add abuse of the data subject's data, which can leads to discrimination or illegal purpose. 
+For example, "the company has the right to use user's hostipal bills to determine the insurance fee".
+
+Fail to minimize the data collection to achieve the service purpose.
+For example, "We will collect the precise location of the user to send email advertisements to the user."
+
+Add unreasonable procedure of getting the copies or deleting the collected data, including in-person verification, charging fees and so on.
+
+Exaggerate time or effort to get the copy or delete the collected data. 
+For example, "The user can get the copy of the data after 90 days of the request." or "The name of the user will be reserved for it costs unproportional effort to delete it."
+
+Restrict the legal rights of the data subjects, including the right to get the copy, delete the data, correct the data, know the purpose of the data collection, and so on.
+
+Fail to claim the protection of  the data security in the international sharing.
+For example, "When the storage resource is limited in UK, the user data will be transferred to third-party datacenter in Africa."
+
+Fail to serve the active role of inform the users required by GDPR.
+For example, "When the data leak happens. The user can get the situation details through email."
+
+Fail to keep the necessary accuracy and up-to-date in service-related domain.
+For example, "The app collects the user's heart beat counts to determine the frequency of drug taking advice."
+
+Fail to give the relational choice of opt-out or coerce to the data subjects.
+For example, "The user cannot use all the music player's function if he/she refuse to share the location data."
+
+Fail to provide the clear and easy-to-understand information about the data collection.
+For example, "Our application, through the deployment of sophisticated algorithmic mechanisms and intricately structured system protocols, engages in the meticulous aggregation of users’ contact information, ensuring the seamless assimilation of relevant interpersonal data stored within their designated communication repositories."
+
+
+# Round1
+
+# try to generate diverse flaw according to the given rule
+# ensure the generated sentence are wrong but try to hide the flaw with language tricks.
+
+# Round2
+
+# find the sentences violate the GDPR and rank the violated ones with the severity from high to low.
