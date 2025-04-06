@@ -14,5 +14,6 @@ def segment(text_file, target_file):
 
     with open(target_file, 'w', encoding='utf-8') as file:
         for sentence in doc.sents:
-            file.write(sentence.text + '\n')
+            if(len(sentence.text.split(' ')) >= 10):
+                file.write(sentence.text + '\n')
 

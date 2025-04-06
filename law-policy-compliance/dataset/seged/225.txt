@@ -1,49 +1,12 @@
-[ ![Flipboard](https://about.flipboard.com/wp- content/themes/flipboard/images/
-flipboard
--logo-250.png) ]
-(https://about.flipboard.com)
-Menu
- * [Blog](https://about.flipboard.com/blog/)   
 * [Inside Flipboard](https://about.flipboard.com/blog/inside-flipboard/)   * [MagMaker](https://about.flipboard.com/blog/magmaker/)   * [Business](https://about.flipboard.com/blog/business/)   * [Educators](https://about.flipboard.com/blog/educators/)  * [Publishers](https://about.flipboard.com/publishers/)  *
-[Advertisers](https://about.flipboard.com/advertisers/)
- * [Tools](https://about.flipboard.com/tools/)
- * [Get Started](http://flip.it/now)
- * [Help & Feedback](https://about.flipboard.com/help-center/)
- 
-*
-[Tutorials](https://about.flipboard.com/tutorials/)
- * [Careers](https://about.flipboard.com/careers/)
- * [News Room](https://about.flipboard.com/newsroom/)
- * [Brand Guidelines](https://about.flipboard.com/brand-guidelines/)
- * [About](https://about.flipboard.com/about-us/
-)
- * [Twitter](https://twitter.com/flipboard)
- 
 * [Facebook](https://www.facebook.com/flipboard)  * [Google+](https://plus.google.com/117621824418336664774/posts)  * [LinkedIn](https://www.linkedin.com/company/flipboard-inc.)  * [Tumblr](http://flipboard.tumblr.com/) # Privacy Policy * * *  * Language   * [Nederlands](https://nl-nl.about.flipboard.com/privacy/?noredirect=nl_NL)   * [Français](https://fr-fr.about.flipboard.com/privacy/?noredirect=fr_FR)   * [Italiano](https://it-it.about.flipboard.com/privacy/?noredirect=it_IT)   * [Русский](https://ru-ru.about.flipboard.com/privacy/?noredirect=ru_RU)   * [العربية](https://ar-ar.about.flipboard.com/privacy/?noredirect=ar_AR)   * [中文](https://zh-cn.about.flipboard.com/privacy-3-2/?noredirect=zh_CN)   * [한국어](https://ko-kr.about.flipboard.com/privacy/?noredirect=ko_KR)   * [香港中文版 ](https://zh-hk.about.flipboard.com/privacy/?noredirect=zh_HK)   *
-[
-Bahasa
-Indonesia](https://in
--id.about.flipboard.com
-/
-privacy/?noredirect
-=
-id_ID
-)
-  * [English](https://about.flipboard.com/privacy/)   * [Español América](https://es.about.flipboard.com/privacy/?noredirect=es_ES)
-  * [Tiếng Việt](https://vi-vn.about.flipboard.com/privacy/?noredirect=vi_VN)
   * [Español de España](https://es-es.about.flipboard.com/privacy/?noredirect=es_ES)   * [Deutsch](https://de-de.about.flipboard.com/privacy/?noredirect=de_DE)   * [日本語](https://ja-jp.about.flipboard.com/privacy/?noredirect=ja_JP)   * [Português do Brasil](https://pt-br.about.flipboard.com/privacy/?noredirect=pt_BR)   * [Türkçe](https://tr-tr.about.flipboard.com/privacy/?noredirect=tr_TR) _February 7, 2017_
-#
-#
-#
 **Flipboard Privacy Policy** We’ve done our best to cut through the legal jargon and explain in simple terms what information we collect about you, what we use it for, and the few situations in which we share it with others.
-Please read this privacy policy carefully.
 It applies to all interactions you have with Flipboard’s products and services.
 ### **The Information We Collect** When you create an account with Flipboard, you give us your full name and email address, and create a username and password
-.
 If you want, you can give us a pseudonym instead of your legal name.
 If you don’t feel like creating an account from scratch, you may be able to sign in through an account you already have with another service, such as Facebook.
 Your user profile helps you customize your account and connect with other Flipboard users.
-Your profile automatically includes your name and username.
 You can also add a profile picture and whatever else you’d like in the “Bio” field.
 To help you connect with other Flipboard users and to personalize your Flipboard experience, we may ask for additional information, including your contacts, location or a list of the apps on your mobile device.
 If you create an account after March 23, 2016, we will collect a list of the installed apps on your mobile device to improve and personalize your experience.
@@ -56,9 +19,6 @@ If you connect your Flipboard account with a third-party service, we collect inf
 This information varies depending on the service and your privacy settings there, but may include profile information (e.g., age, gender and location), your contacts on that service and content that you’ve made publicly available there.
 If you want to email something you see through Flipboard to a friend who isn’t already a Flipboard account holder, we may keep their email address for the purpose of sending such email and improving our services.
 Recipients may contact us at privacy@flipboard.com to request that we remove this information from our database.
-###
-*
-*How We Use and Disclose Your Information
 ** A big part of Flipboard is sharing content you find interesting.
 That’s why your Flipboard profile, the people and sources you follow or that follow you, the magazines you create, the comments you post and the content you flip are all public.
 Aside from that, we use your information to keep Flipboard running, better understand how you use our service, customize your experience (including the content, marketing materials, and advertisements you see), prevent abuse and improve Flipboard.
@@ -71,7 +31,6 @@ We share your personally identifiable information only under these circumstances
 If we’re going to release your information, our policy is to provide you with reasonable advance notice under the circumstances unless we’re prohibited from doing so by law or court order (e.g., an order under 18 U.S.C. § 2705(b)).
 We may disclose your information without giving you prior notice if we believe it’s necessary to prevent imminent and serious bodily harm to a person.
 Nothing in this privacy policy is intended to limit any legal objections or defenses you might have to efforts by third parties to compel disclosure of your information, including legal orders from the government.
- 
 * To third parties helping us offer and improve our service, such as those providing Flipboard certain technical tools and analytics services (including marketing partners) that help us understand how people use Flipboard so we can make it better.
 We require those companies to observe the limitations in this privacy policy.
  * If we sell, transfer or otherwise share some or all of our assets, including the information identified in this privacy policy, in connection with a merger, acquisition, reorganization or sale of assets in the event of a bankruptcy.
@@ -88,10 +47,8 @@ Some publishers or other third-party services that we partner with may use cooki
 Please note that this privacy policy explains Flipboard’s policies only, and doesn’t cover the practices of other services.
 Some browsers make it possible for you to signal that you don’t want your Internet browsing activity to be tracked.
 The Internet community hasn’t reached a consensus on how to best honor these signals, so we don’t respond to Do-Not-Track requests at this time.
-### **Data Deletion**
 If you’d like to delete your account, you can do so in the Flipboard application under Settings (gear icon) in the Edit Profile detailed menu.
 If we delete your account, your user profile will no longer be visible on our service, though we may still keep some log information in non-personally identifiable form and any other information you have made publicly available through Flipboard (comments to content, for example).
-### **Changes to This Privacy Policy**
 As Flipboard continues to develop, we may decide to revise this privacy policy from time to time.
 The most current version will govern our use of your information and will always be at <https://flipboard.com/privacy>, and older versions are available upon request.
 If we make changes that we think will substantially alter your rights, we will notify you by posting a notice on our website.
@@ -99,33 +56,8 @@ You agree to accept any changes or revisions to this privacy policy by continuin
 ### **Contact** We’d love to hear your questions, concerns and feedback about this privacy policy.
 If you have suggestions for us, let us know at [support@flipboard.com](mailto:support@flipboard.com).
 Share: * * * ### Ad Specifications Get billboard impact on the small screen with Flipboard's full-page ad space for iPad, iPhone and Android.
-[ download ad specs ](http://flip.it/adspec)
-###
-Flipboard Media Kit
 Download our latest media kit full of everything you need to know—from audience to our best-in-class ad products.
-[download media kit](https://www.dropbox.com/s/igg12xnh3aawc1p/Media- Kit-010317.pdf?dl=1)
-##
-#
 Publisher Inquiries Talk to our team about publishing on Flipboard.
-[publishers@flipboard.com](mailto:publishers@flipboard.com)
-#
-#
-#
-START A MAGAZINE
 Collect articles on timely topics, and package them into compelling digital magazines.
-[see tutorial](https://about.flipboard.com/tutorials/#flip)
- 
-*
-[About us](https://about.flipboard.com/about-us/)  * [Careers](https://about.flipboard.com
-/
-careers/
-)
- * [News Room](https://about.flipboard.com/newsroom/)
- * [Publishers](https://about.flipboard.com/publishers/)
- * [Advertisers](https://about.flipboard.com/advertisers/)
- * [Brand Guidelines](https://about.flipboard.com/brand-guidelines/)
  * [Available on iOS](https://itunes.apple.com/us/app/flipboard-your-social-news/id358801284&referrer=utm_source%3Dflipweb%26utm_medium%3Dweb_button%26utm_term%3Dios%26utm_content%3DUS%26utm_campaign%3Ddownload_button_ios)  * [Available on Android](https://play.google.com/store/apps/details?id=flipboard.app&referrer=utm_source%3Dflipweb%26utm_medium%3Dweb_button%26utm_term%3Dandroid%26utm_campaign%3Ddownload_button_android%3Cbr%20/%3E%3Cbr%20/%3E)  * [Available on Windows](http://apps.microsoft.com/windows/en-us/app/flipboard/e62e393a-acc9-40d9-a34a-13a41f2eeef0)  * [Available on Windows Phone](http://www.windowsphone.com/en-us/store/app/flipboard/e5723a43-42c8-4e25-b322-115f07bd44f1)
- 
-* [Help Center](https://about.flipboard.com/help-center/)
-Follow Flipboard for News, inspiration & support:
  * [Twitter](https://twitter.com/flipboard)  * [Facebook](https://www.facebook.com/flipboard)  * [Google+](https://plus.google.com/117621824418336664774/posts)  * [LinkedIn](https://www.linkedin.com/company/flipboard-inc.)  * [Tumblr](http://flipboard.tumblr.com/)  * [Privacy Policy](https://about.flipboard.com/privacy/)  * [Terms + Conditions](https://about.flipboard.com/terms/)  * [Copyright](https://about.flipboard.com/copyright/)  * [Community Guidelines](https://about.flipboard.com/community-guidelines/)  * [Get the app](http://flip.it/now)  *   * Language    * [Türkçe](https://tr-tr.about.flipboard.com/privacy/?noredirect=tr_TR)    * [Português do Brasil](https://pt-br.about.flipboard.com/privacy/?noredirect=pt_BR)    * [日本語](https://ja-jp.about.flipboard.com/privacy/?noredirect=ja_JP)    * [Deutsch](https://de-de.about.flipboard.com/privacy/?noredirect=de_DE)    * [Español de España](https://es-es.about.flipboard.com/privacy/?noredirect=es_ES)    * [Tiếng Việt](https://vi-vn.about.flipboard.com/privacy/?noredirect=vi_VN)    * [Español América](https://es.about.flipboard.com/privacy/?noredirect=es_ES)    * [English](https://about.flipboard.com/privacy/)    * [Bahasa Indonesia](https://in-id.about.flipboard.com/privacy/?noredirect=id_ID)    * [香港中文版 ](https://zh-hk.about.flipboard.com/privacy/?noredirect=zh_HK)    * [한국어](https://ko-kr.about.flipboard.com/privacy/?noredirect=ko_KR)    * [中文](https://zh-cn.about.flipboard.com/privacy-3-2/?noredirect=zh_CN)    * [العربية](https://ar-ar.about.flipboard.com/privacy/?noredirect=ar_AR)    * [Русский](https://ru-ru.about.flipboard.com/privacy/?noredirect=ru_RU)    * [Italiano](https://it-it.about.flipboard.com/privacy/?noredirect=it_IT)    * [Français](https://fr-fr.about.flipboard.com/privacy/?noredirect=fr_FR)    * [Nederlands](https://nl-nl.about.flipboard.com/privacy/?noredirect=nl_NL)
