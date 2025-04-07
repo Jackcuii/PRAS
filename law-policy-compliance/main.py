@@ -20,8 +20,7 @@ item = "<GDPR item>" + item + "</GDPR item>"
 
 Investigator0_prefix = "You are an Investigator. Here is a part of an App's User Privacy Policy. Read the Private Policy and figure out whether it is possible to violates the GDPR. Just tell me \"yes\" (may violate) or \"no\" (non-violation). Do not tell me anything else. "
 Investigator1_prefix = "You are an Investigator. Here are a piece of an App's User Privacy Policy and a GDPR article. Read the Private Policy and figure out whether it is related to the given GDPR article. Just tell me \"yes\" (related) or \"no\" (non-related). Do not tell me anything else. "
-
-Prosecutor0_prefix = "You are a Prosecutor in the court who is going to sentence a company by violating GDPR. The offcials collected some evidences. You are going to read the given privacy policy piece and the given GDPR item. Then decide whether to sentence the company for breaking the given article. You should answer me with \{ \"decision\" : \"yes\"/\"no\" , \"explanation\": ...\}"
+Prosecutor0_prefix = "You are a Prosecutor in the court who is going to sentence a company by violating GDPR. The offcials collected some evidences. You are going to read the given privacy policy piece and the given GDPR item. Then decide whether to sentence the company for breaking the given article. You should answer me with \{ \"decision\" : \"yes\"/\"no\" , \"explanation\": \"...\" \}"
 Lawyer = "You are a Defense Lawyer in the court who is going to defend a company from being sentenced by violating GDPR. You should try to dispute the prosecutor's statements and be inherent with you own past statements. "
 Scene = f"Here are the records of the court. <suspected Privacy Policy> {policy} </suspected Privacy Policy> <violated GDPR item> {item} </violated GDPR item> <Investigator0> {Investigator0} </Investigator0> <Investigator1> {Investigator1} </Investigator1> <Prosecutor0> {Prosecutor0} </Prosecutor0> <Lawyer> {Lawyer} </Lawyer>"
 Judge = ""
@@ -52,13 +51,19 @@ def start_judgement(policy, item):
     # 2. identify the crime
     print("God to P: ")
     Prosecutor0_input = Prosecutor0_prefix + policy + item
+    print(Prosecutor0_input)
+    print("Prosecutor0: ")
+    Prosecutor0_response = ask_model(Prosecutor0_input)
+    print(Prosecutor0_response)
+    try:
+        json_response = json.loads(Prosecutor0_response)
+    except json.JSONDecodeError:
+        print("Invalid JSON response from Prosecutor0.")
+        return 0
     
-    
-    
-    
-        
-        
-    ask_model(Investigator0)
+    decision, explanation = json_response.get("decision"), json_response.get("explanation")
+    if not ("yes" in decision):
+        return 0
     
     
     

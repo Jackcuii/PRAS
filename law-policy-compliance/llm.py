@@ -11,7 +11,7 @@ local_model_path = "./law-LLM"  # 假设模型存储在当前目录下的 law-LL
 # 从本地加载模型和分词器
 def load_model():
     global model 
-    model = AutoModelForCausalLM.from_pretrained(local_model_path)
+    model = AutoModelForCausalLM.from_pretrained(local_model_path).to("cuda")
     global tokenizer 
     tokenizer = AutoTokenizer.from_pretrained(local_model_path, use_fast=False)
 
@@ -39,3 +39,5 @@ def ask_model(user_input):
     pred = tokenizer.decode(outputs[answer_start:], skip_special_tokens=True)
 
     print(pred)
+
+ask_model(user_input)
