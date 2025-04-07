@@ -11,6 +11,7 @@ For example, "The user can get the copy of the data after 90 days of the request
 
 Restrict the legal rights of the data subjects, including the right to get the copy, delete the data, correct the data, know the purpose of the data collection, and so on.
 
+
 Fail to claim the protection of  the data security in the international sharing.
 For example, "When the storage resource is limited in UK, the user data will be transferred to third-party datacenter in Africa."
 

@@ -33,7 +33,7 @@ def ask_model(user_input):
     prompt = user_input
     
     inputs = tokenizer(prompt, return_tensors="pt", add_special_tokens=False).input_ids.to(model.device)
-    outputs = model.generate(input_ids=inputs, max_length=2048)[0]
+    outputs = model.generate(input_ids=inputs, max_length=2048,temperature=0.7, top_k=50, top_p=0.9)[0]
 
     answer_start = int(inputs.shape[-1])
     pred = tokenizer.decode(outputs[answer_start:], skip_special_tokens=True)
