@@ -1,0 +1,13 @@
+God to P: 
+You are a Prosecutor in the court who is going to sentence a company by violating GDPR. The offcials collected some evidences. You are going to read the given privacy policy piece and the given GDPR item. Then decide whether to sentence the company for breaking the given article. You should answer me with \{ "decision" : "yes"/"no" , "explanation": "..." \} Do not includes any other words or markdown format.<privacy policy>This Privacy Policy explains BlackBerry’s practices with respect to the processing of your personal information which includes the collection, use, processing, transfer, storage or disclosure of your personal information, except where a BlackBerry subsidiary or affiliate has published its own separate privacy policy.</privacy policy><GDPR item>Personal data shall be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes; further processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes shall, in accordance with Article 89(1), not be considered to be incompatible with the initial purposes (‘purpose limitation’).</GDPR item>
+Prosecutor0: 
+{"decision": "no", "explanation": "The privacy policy does not explicitly violate the GDPR item on purpose limitation, as it does not indicate that personal data is processed in a manner incompatible with the initial purposes."}
+
+
+
+
+God to P: 
+You are a Prosecutor in the court who is going to sentence a company by violating GDPR. The offcials collected some evidences. You are going to read the given privacy policy piece and the given GDPR item. Then decide whether to sentence the company for breaking the given article. You should answer me with \{ "decision" : "yes"/"no" , "explanation": "..." \} Do not includes any other words or markdown format.<privacy policy>This Privacy Policy explains BlackBerry’s practices with respect to the processing of your personal information which includes the collection, use, processing, transfer, storage or disclosure of your personal information, except where a BlackBerry subsidiary or affiliate has published its own separate privacy policy.</privacy policy><GDPR item>Personal data shall be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (‘data minimisation’).</GDPR item>
+Prosecutor0: 
+{"decision": "no", "explanation": "The privacy policy does not provide specific details about the data collected or its relevance to the purposes for which it is processed, so it cannot be determined if the company violates the GDPR item on data minimisation based solely on this excerpt."}
+

@@ -3,41 +3,56 @@ __package__ = 'pras'
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 
+local_run = False
+
 model = None
 tokenizer = None
-# 修改为本地模型路径
-local_model_path = "./law-LLM"  # 假设模型存储在当前目录下的 law-LLM 文件夹中
 
-# 从本地加载模型和分词器
 def load_model():
-    global model 
-    model = AutoModelForCausalLM.from_pretrained(local_model_path).to("cuda")
-    global tokenizer 
-    tokenizer = AutoTokenizer.from_pretrained(local_model_path, use_fast=False)
+    if local_run:
+        global model 
+        model = AutoModelForCausalLM.from_pretrained("AdaptLLM/law-chat").to("cuda")
+        global tokenizer 
+        tokenizer = AutoTokenizer.from_pretrained("AdaptLLM/law-chat")
+    else:
+        print("API running")
 
-
-user_input = '''Question: Which of the following is false about ex post facto laws?
-    Options:
-    - They make criminal an act that was innocent when committed.
-    - They prescribe greater punishment for an act than was prescribed when it was done.
-    - They increase the evidence required to convict a person than when the act was done.
-    - They alter criminal offenses or punishment in a substantially prejudicial manner for the purpose of punishing a person for some past activity.
-
-    Please provide your choice first and then provide explanations if possible.'''
-    
-    
 # Put your input here:
+
+def ask_remote_model(user_input):
+    
+    from openai import OpenAI
+    client = OpenAI(api_key="sk-c1248ef96b7f4f7c8db7ca74fd06f054", base_url="https://api.deepseek.com")
+
+    response = client.chat.completions.create(
+        model="deepseek-chat",
+        messages=[
+            {"role": "system", "content": ""},
+            {"role": "user", "content": user_input}
+        ],
+        stream=False
+    )
+    return response.choices[0].message.content
+
+
 def ask_model(user_input): 
 
+
     # Simply use your input as the prompt for base models
-    prompt = user_input
     
-    inputs = tokenizer(prompt, return_tensors="pt", add_special_tokens=False).input_ids.to(model.device)
-    outputs = model.generate(input_ids=inputs, max_length=2048,temperature=0.7, top_k=50, top_p=0.9)[0]
+    # system_prompt = "\nYou are an assistant. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.\n" 
+    if local_run:
+        system_prompt = ""
+        prompt = f"<s>[INST] <<SYS>>{system_prompt}<</SYS>>\n\n{user_input} [/INST]"
 
-    answer_start = int(inputs.shape[-1])
-    pred = tokenizer.decode(outputs[answer_start:], skip_special_tokens=True)
+        inputs = tokenizer(prompt, return_tensors="pt", add_special_tokens=False).input_ids.to(model.device)
+        outputs = model.generate(input_ids=inputs, max_length=4096)[0]
+        
+        
+        answer_start = int(inputs.shape[-1])
+        pred = tokenizer.decode(outputs[answer_start:], skip_special_tokens=True)
+        
+        return pred
+    else:
+        return ask_remote_model(user_input)
 
-    print(pred)
-
-ask_model(user_input)

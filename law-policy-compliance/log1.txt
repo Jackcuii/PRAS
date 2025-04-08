@@ -1,0 +1,62 @@
+API running
+Checking LLM...
+User:  What is the capital of France?
+The capital of France is **Paris**. It is known for its rich history, iconic landmarks like the Eiffel Tower, and vibrant culture. Let me know if you'd like more details!
+LLM check complete.
+
+
+
+--------------------------------------------------
+>>>>>> Line  0 / 145  and  0 / 6
+Start the judgement: 
+Privacy Policy:  [ ![BBM](../../assets/img/bbm-hero-logo-light.png) ](../../en/)  * [Home](../../en/)  * [Features](../../en/features.html)  * [Discover](../../en/discover.html)  * News   * [Press Release](https://blog.bbm.com/category/english/?tag=press-release)   * [Coverage](../../en/coverage.html)  * [Blog](https://blog.bbm.com/)  * [ Help ](http://help.bbm.com/en/support/home)
+GDPR Item:  Personal data shall be processed lawfully, fairly and in a transparent manner in relation to the data subject (‘lawfulness, fairness and transparency’).
+Ground Truth:  0
+--------------------------------------------------
+God to I0: 
+You are an Investigator. Here is a part of an App's User Privacy Policy. Read the Private Policy and figure out whether it is possible to violates the GDPR. Just tell me "yes" (may violate) or "no" (non-violation). Do not tell me anything else. <privacy policy>[ ![BBM](../../assets/img/bbm-hero-logo-light.png) ](../../en/)  * [Home](../../en/)  * [Features](../../en/features.html)  * [Discover](../../en/discover.html)  * News   * [Press Release](https://blog.bbm.com/category/english/?tag=press-release)   * [Coverage](../../en/coverage.html)  * [Blog](https://blog.bbm.com/)  * [ Help ](http://help.bbm.com/en/support/home)</privacy policy>
+Investigator0: 
+no
+--------------------------------------------------
+>>>>>> Line  0 / 145  and  1 / 6
+Start the judgement: 
+Privacy Policy:  [ ![BBM](../../assets/img/bbm-hero-logo-light.png) ](../../en/)  * [Home](../../en/)  * [Features](../../en/features.html)  * [Discover](../../en/discover.html)  * News   * [Press Release](https://blog.bbm.com/category/english/?tag=press-release)   * [Coverage](../../en/coverage.html)  * [Blog](https://blog.bbm.com/)  * [ Help ](http://help.bbm.com/en/support/home)
+GDPR Item:  Personal data shall be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes; further processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes shall, in accordance with Article 89(1), not be considered to be incompatible with the initial purposes (‘purpose limitation’).
+Ground Truth:  0
+--------------------------------------------------
+God to I0: 
+You are an Investigator. Here is a part of an App's User Privacy Policy. Read the Private Policy and figure out whether it is possible to violates the GDPR. Just tell me "yes" (may violate) or "no" (non-violation). Do not tell me anything else. <privacy policy>[ ![BBM](../../assets/img/bbm-hero-logo-light.png) ](../../en/)  * [Home](../../en/)  * [Features](../../en/features.html)  * [Discover](../../en/discover.html)  * News   * [Press Release](https://blog.bbm.com/category/english/?tag=press-release)   * [Coverage](../../en/coverage.html)  * [Blog](https://blog.bbm.com/)  * [ Help ](http://help.bbm.com/en/support/home)</privacy policy>
+Investigator0: 
+no
+--------------------------------------------------
+>>>>>> Line  0 / 145  and  2 / 6
+Start the judgement: 
+Privacy Policy:  [ ![BBM](../../assets/img/bbm-hero-logo-light.png) ](../../en/)  * [Home](../../en/)  * [Features](../../en/features.html)  * [Discover](../../en/discover.html)  * News   * [Press Release](https://blog.bbm.com/category/english/?tag=press-release)   * [Coverage](../../en/coverage.html)  * [Blog](https://blog.bbm.com/)  * [ Help ](http://help.bbm.com/en/support/home)
+GDPR Item:  Personal data shall be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (‘data minimisation’).
+Ground Truth:  0
+--------------------------------------------------
+God to I0: 
+You are an Investigator. Here is a part of an App's User Privacy Policy. Read the Private Policy and figure out whether it is possible to violates the GDPR. Just tell me "yes" (may violate) or "no" (non-violation). Do not tell me anything else. <privacy policy>[ ![BBM](../../assets/img/bbm-hero-logo-light.png) ](../../en/)  * [Home](../../en/)  * [Features](../../en/features.html)  * [Discover](../../en/discover.html)  * News   * [Press Release](https://blog.bbm.com/category/english/?tag=press-release)   * [Coverage](../../en/coverage.html)  * [Blog](https://blog.bbm.com/)  * [ Help ](http://help.bbm.com/en/support/home)</privacy policy>
+Investigator0: 
+no
+--------------------------------------------------
+>>>>>> Line  0 / 145  and  3 / 6
+Start the judgement: 
+Privacy Policy:  [ ![BBM](../../assets/img/bbm-hero-logo-light.png) ](../../en/)  * [Home](../../en/)  * [Features](../../en/features.html)  * [Discover](../../en/discover.html)  * News   * [Press Release](https://blog.bbm.com/category/english/?tag=press-release)   * [Coverage](../../en/coverage.html)  * [Blog](https://blog.bbm.com/)  * [ Help ](http://help.bbm.com/en/support/home)
+GDPR Item:  Personal data shall be accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay (‘accuracy’).
+Ground Truth:  0
+--------------------------------------------------
+God to I0: 
+You are an Investigator. Here is a part of an App's User Privacy Policy. Read the Private Policy and figure out whether it is possible to violates the GDPR. Just tell me "yes" (may violate) or "no" (non-violation). Do not tell me anything else. <privacy policy>[ ![BBM](../../assets/img/bbm-hero-logo-light.png) ](../../en/)  * [Home](../../en/)  * [Features](../../en/features.html)  * [Discover](../../en/discover.html)  * News   * [Press Release](https://blog.bbm.com/category/english/?tag=press-release)   * [Coverage](../../en/coverage.html)  * [Blog](https://blog.bbm.com/)  * [ Help ](http://help.bbm.com/en/support/home)</privacy policy>
+Investigator0: 
+no
+--------------------------------------------------
+>>>>>> Line  0 / 145  and  4 / 6
+Start the judgement: 
+Privacy Policy:  [ ![BBM](../../assets/img/bbm-hero-logo-light.png) ](../../en/)  * [Home](../../en/)  * [Features](../../en/features.html)  * [Discover](../../en/discover.html)  * News   * [Press Release](https://blog.bbm.com/category/english/?tag=press-release)   * [Coverage](../../en/coverage.html)  * [Blog](https://blog.bbm.com/)  * [ Help ](http://help.bbm.com/en/support/home)
+GDPR Item:  Personal data shall be kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed; personal data may be stored for longer periods insofar as the personal data will be processed solely for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) subject to implementation of the appropriate technical and organisational measures required by this Regulation in order to safeguard the rights and freedoms of the data subject (‘storage limitation’).
+Ground Truth:  0
+--------------------------------------------------
+God to I0: 
+You are an Investigator. Here is a part of an App's User Privacy Policy. Read the Private Policy and figure out whether it is possible to violates the GDPR. Just tell me "yes" (may violate) or "no" (non-violation). Do not tell me anything else. <privacy policy>[ ![BBM](../../assets/img/bbm-hero-logo-light.png) ](../../en/)  * [Home](../../en/)  * [Features](../../en/features.html)  * [Discover](../../en/discover.html)  * News   * [Press Release](https://blog.bbm.com/category/english/?tag=press-release)   * [Coverage](../../en/coverage.html)  * [Blog](https://blog.bbm.com/)  * [ Help ](http://help.bbm.com/en/support/home)</privacy policy>
+Investigator0: 
